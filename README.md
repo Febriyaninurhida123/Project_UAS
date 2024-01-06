@@ -16,8 +16,8 @@
 | --- | --- |
 |password : | admin |
 |link Web HOSTING DEMO : | https://zamband.000webhostapp.com/ |
-|link youtube : | https://youtu.be/AXICRxo5m8U |
-| link drive pdf laporan : | https://drive.google.com/file/d/1KXrxbji6thtQteoFJ79NRTFBmTkLJT7i/view?usp=sharing |
+|link youtube : | https://youtu.be/RDYL07F3y_4?si=seJ-drVnFA6q4efE |
+| link drive pdf laporan : | https://docs.google.com/document/d/1v8YEgIL8utAVF96UJzOFRUemUolsFlUX/edit?usp=sharing&ouid=117709162164782978833&rtpof=true&sd=true |
 
 
 
